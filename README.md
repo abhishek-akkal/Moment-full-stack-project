@@ -1,4 +1,7 @@
-# 📸 Moment
+<h1 align="center">
+  <img src="./Frontend/src/assets/Logo.png" alt="Moment Logo" width="45" align="center" />
+  &nbsp; Moment
+</h1>
 
 <p align="center">
   <img src="./Frontend/src/assets/Logo.png" alt="Moment Logo" width="120" />
