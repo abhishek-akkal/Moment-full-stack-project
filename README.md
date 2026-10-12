@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="./Frontend/src/assets/Logo.png" alt="Moment Logo" width="45" align="center" />
-  &nbsp; Moment
-</h1>
+# ✨ Moment
 
 <p align="center">
   <img src="./Frontend/src/assets/Logo.png" alt="Moment Logo" width="120" />
