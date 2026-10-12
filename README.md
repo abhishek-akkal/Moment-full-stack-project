@@ -350,7 +350,7 @@ Building Moment helped me gain practical experience with:
 
 **Abhishek Akkal**
 
-BCA Student | Aspiring Full-Stack Developer
+BCA Student | Full-Stack Developer
 
 - GitHub: [abhishek-akkal](https://github.com/abhishek-akkal)
 - Project Repository: [Moment-full-stack-project](https://github.com/abhishek-akkal/Moment-full-stack-project)
