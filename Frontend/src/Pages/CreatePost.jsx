@@ -11,7 +11,7 @@ const CreatePost = () => {
 
     try {
       const res = await axios.post(
-        "http://localhost:3000/create-post",
+        "https://moment-backend-api.onrender.com/create-post",
         formData,
       );
 
